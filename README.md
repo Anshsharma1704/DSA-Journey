@@ -5,6 +5,7 @@ My DSA journey following Striver A2Z Sheet and LeetCode, focusing on consistency
 This repository contains my daily DSA practice while preparing for placements.
 
 ## 🧠 Topics Covered
+- C++ Basics
 - Arrays
 - Strings
 - Linked List
@@ -17,12 +18,10 @@ This repository contains my daily DSA practice while preparing for placements.
 
 ## 📌 Platforms
 - LeetCode
-- GFG
-- CodeStudio
 
 ## 🗓️ Goal
 Solve DSA consistently and track progress publicly.
 
 ## 🔗 Profile
-- LeetCode: <your-link>
-- GitHub: <your-link>
+- LeetCode: <https://leetcode.com/u/BLeBCaWz9g/>
+- GitHub: <https://github.com/Anshsharma1704>
